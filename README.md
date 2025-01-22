@@ -27,5 +27,6 @@ An interactive chatbot system that provides information about products and suppl
 ![AI-Product-Chatbot-01-23-2025_12_27_AMm](https://github.com/user-attachments/assets/25e362e7-d1cc-4477-9a58-6cd35f5e57e8)
 
 
-![AI-Product-Chatbot-01-23-2025_12_26_AM](https://github.com/user-attachments/assets/bc0cae90-eea8-40c6-8b39-2b903cd36e12)
+![AI-Product-Chatbot-01-23-2025_12_26_](https://github.com/user-attachments/assets/8c2c635e-6e1e-4ff5-acac-5d69bdead8fb)
+
 
