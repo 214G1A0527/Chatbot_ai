@@ -24,4 +24,4 @@ An interactive chatbot system that provides information about products and suppl
 - PostgreSQL Database
 - Docker for containerization
 
-## Project Structure
+![alt text]("C:\Users\ganesh\OneDrive\Desktop\AI-Product-Chatbot-01-23-2025_12_27_AMm.png")
